@@ -1,1 +1,1 @@
-# GoogleColab-MLstudy
+# 1. 혼자 공부하는 머신러닝딥러닝 
